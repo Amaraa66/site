@@ -1,0 +1,38 @@
+#navbar .logo {
+  float: none;
+  text-align: center;
+  font-size: auto;
+}
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+#navbar ul li a {
+  text-align: center;
+  padding: 5px;
+  border-bottom: #444 dotted;
+}
+#nature-info .info-img {
+  display: none;
+}
+#nature-info .info-text {
+  float: none;
+  width: 100%;
+}
+/*boxes*/
+.box {
+  float: none;
+  width: 100%;
+}
+/*About info*/
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+#about-info .info-right {
+  margin-top: 30px;
+}
+.l-heading {
+  text-align: center;
+}
