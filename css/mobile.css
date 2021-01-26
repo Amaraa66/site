@@ -3,6 +3,11 @@
   text-align: center;
   font-size: auto;
 }
+#showcase-content h1 {
+  font-size: 30px;
+  padding-bottom: 5px;
+  line-height: 1.2rem;
+}
 #navbar ul,
 #navbar ul li {
   float: none;
